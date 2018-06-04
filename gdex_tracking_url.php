@@ -1,0 +1,1 @@
+<a target="_BLANK" href="http://web2.gdexpress.com/official/iframe/etracking_v2.php?redoc_gdex=cnGdex&Submit=Track&capture=<?php echo strtoupper($row['dh_dock_no']); ?>"><?php echo strtoupper($row['dh_dock_no']); ?></a>
